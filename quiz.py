@@ -28,6 +28,11 @@ def get_questions():
             "question": "What is the smallest prime number?",
             "choices": ["A) 0", "B) 1", "C) 2", "D) 3"],
             "answer": "C"
+        },
+        {
+            "question": "What is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen?",
+            "choices": ["A) Respiration", "B) Photosynthesis", "C) Decomposition", "D) Fermentation"],
+            "answer": "B"
         }
     ]
     return questions
